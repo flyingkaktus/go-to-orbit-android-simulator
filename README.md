@@ -17,6 +17,11 @@ the tools mentioned in the state of the art section.
 
 Gameplay: https://www.youtube.com/watch?v=IvHveOYWKO0
 
+Satellite Model in blender:
+
 ![satellite](https://i.ibb.co/1YVr8GS/Screenshot-2022-12-18-223401.jpg)
+
+
+Orbit debugger view in Unity3d:
 
 ![debugger view](https://i.ibb.co/rvMbmX3/Screenshot-2022-12-18-223426.jpg)
