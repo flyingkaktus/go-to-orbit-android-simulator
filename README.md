@@ -16,3 +16,7 @@ is to be fulfilled. The task alternates between "Go To Orbit" and "Try landing".
 the tools mentioned in the state of the art section.
 
 Gameplay: https://www.youtube.com/watch?v=IvHveOYWKO0
+
+![satellite](https://ibb.co/TDX4mMC)
+
+![debugger view](https://ibb.co/SJ0QPZc)
