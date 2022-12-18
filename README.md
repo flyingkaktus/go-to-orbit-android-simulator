@@ -17,6 +17,6 @@ the tools mentioned in the state of the art section.
 
 Gameplay: https://www.youtube.com/watch?v=IvHveOYWKO0
 
-![satellite]([https://ibb.co/TDX4mMC](https://i.ibb.co/1YVr8GS/Screenshot-2022-12-18-223401.jpg))
+![satellite](https://i.ibb.co/1YVr8GS/Screenshot-2022-12-18-223401.jpg)
 
-![debugger view]([https://ibb.co/SJ0QPZc](https://i.ibb.co/rvMbmX3/Screenshot-2022-12-18-223426.jpg))
+![debugger view](https://i.ibb.co/rvMbmX3/Screenshot-2022-12-18-223426.jpg)
