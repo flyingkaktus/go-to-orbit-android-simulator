@@ -2,7 +2,7 @@
 
 
 As the name of the application implies "Go To Orbit", the goal is to get into an orbital space flight.
-orbital flight. The player controls a satellite with the help of thrusters. Other objects of the game world
+The player controls a satellite with the help of thrusters. Other objects of the game world
 are three small spheres, symbolic of moons, with which collusion can occur. All
 three moons orbit a larger object on stable orbits. The larger object represents a kind of
 dwarf planet. The proportions here are not to scale. Starting from it the
